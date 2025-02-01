@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36" version="26.0.10">
   <diagram name="Página-1" id="1Vwdhp_qkGaWc1pfS145">
-    <mxGraphModel>
+    <mxGraphModel dx="-285" dy="11320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YoNipSkXzENZS_iDVHIx-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="-5520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-2" target="YoNipSkXzENZS_iDVHIx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-10424" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-3" target="YoNipSkXzENZS_iDVHIx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-3" value="Ingresar a Git hub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-10323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-5" target="YoNipSkXzENZS_iDVHIx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-5" value="Crear una cuenta en Git hub con usuario y contraseña" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-10231" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-7" target="YoNipSkXzENZS_iDVHIx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-7" value="Crear un nuevo repositorio con nombre personalizado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-10151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-9" target="YoNipSkXzENZS_iDVHIx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-9" value="Ingresar a Draw.io y conectar con el repositorio creado en git hub" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-10071" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YoNipSkXzENZS_iDVHIx-11" target="YoNipSkXzENZS_iDVHIx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-11" value="Autorizar y realizar tu diagrama de flujo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="-9993" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YoNipSkXzENZS_iDVHIx-13" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="-9896" width="98" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
